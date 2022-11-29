@@ -79,6 +79,10 @@ winget install --id VideoLAN.VLC
 # 差分表示アプリ
 winget install --id WinMerge.WinMerge
 
+# 「Notion」をインストール
+# オールインワンドキュメントアプリ
+winget install --id Notion.Notion
+
 
 ##############################
 # 必須のアプリ（バージョンアップのたびにID更新が必要）
