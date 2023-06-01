@@ -83,6 +83,10 @@ winget install --id WinMerge.WinMerge
 # オールインワンドキュメントアプリ
 winget install --id Notion.Notion
 
+# 「Obsidian」をインストール
+# Markdown 特化エディタ
+winget install --id Obsidian.Obsidian
+
 
 ##############################
 # 必須のアプリ（バージョンアップのたびにID更新が必要）
