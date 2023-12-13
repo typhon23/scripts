@@ -87,6 +87,15 @@ winget install --id Notion.Notion
 # Markdown 特化エディタ
 winget install --id Obsidian.Obsidian
 
+# 「Microsoft PC Manager」をインストール
+# Windows 最適化アプリ
+# パッケージのすべての使用許諾契約に同意する、ソース操作中にすべてのソース契約に同意する
+winget install --id 9PM860492SZD --accept-package-agreements --accept-source-agreements
+
+# 「Dropbox」をインストール
+# ファイル共有アプリ
+winget install --id Dropbox.Dropbox
+
 
 ##############################
 # 必須のアプリ（バージョンアップのたびにID更新が必要）
